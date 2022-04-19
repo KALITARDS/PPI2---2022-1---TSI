@@ -12,9 +12,9 @@ Desenvolvimento do projeto experiencein.
  Um protótipo de uma rede social.
  
 ## O que foi feito até agora:
- A preparação do ambiente;
- A criação do projeto;
- A criação do repositório.
+ - A preparação do ambiente;
+ - A criação do projeto;
+ - A criação do repositório.
  
  
  
